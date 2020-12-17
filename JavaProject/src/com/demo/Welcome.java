@@ -5,4 +5,7 @@ public class Welcome {
 		System.out.println("my name is vaishali");
 	}
 
+	public void detailsoffamily() {
+		System.out.println("my family's surname is Rathore");
+	}
 }
